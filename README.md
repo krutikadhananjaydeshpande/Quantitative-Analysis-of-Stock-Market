@@ -38,7 +38,7 @@ To run the code in this repository, you need the following dependencies:
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/your-username/stock-market-analysis-python.git
+git clone https://github.com/your-username/Quantitative-Analysis-of-Stock-Market.git
 
 2. Navigate to the project directory:
 
